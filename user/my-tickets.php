@@ -10,11 +10,13 @@
     <p>Welcome to the My Tickets section!</p>
     <p>Here, you can see all your recent support tickets and their status.</p>  
     <div>
-        <h2>Recent Tickets</h2>
-        <ul>
-            <li>Ticket #1234 - In Progress</li>
-            <li>Ticket #1235 - Open</li>
-            <li>Ticket #1236 - Closed</li>
-        </ul>
+        <h2>Recent 
+            <p>
+
+
+            sdslfj
+
+            
+            </p>
 </body>
 </html>
